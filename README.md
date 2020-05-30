@@ -1,3 +1,3 @@
 # aurelzefi.github.io
 
-This is the source for my personal website.
+The source code for my personal website.
