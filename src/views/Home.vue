@@ -7,7 +7,7 @@
     </p>
 
     <p class="mt-6">
-      If you like that too, feel free to
+      I am currently open to new opportunities, so feel free to
       <a href="mailto:aurelzefi1994@gmail.com" class="border-b border-gray-900 pb-px md:pb-1 text-gray-900">contact me</a>.
     </p>
   </div>
