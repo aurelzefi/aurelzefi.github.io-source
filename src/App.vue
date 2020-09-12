@@ -18,7 +18,7 @@
       </div>
 
       <div class="hidden lg:flex font-medium text-gray-700 lg:text-lg">
-        <a href="https://twitter.com/aurelzefi15" class="block flex items-center ml-8 hover:text-gray-900">
+        <a href="https://twitter.com/aurelzefi" class="block flex items-center ml-8 hover:text-gray-900">
           <span>Twitter</span>
           <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" class="ml-1">
             <path d="M16.5 13V18.5H6.5V8.5H12" stroke="#4A5568"></path> <path d="M10 15L18.5 6.5" stroke="#4A5568"></path>
@@ -43,8 +43,8 @@
     </div>
 
     <div class="block lg:hidden mt-10 font-medium text-gray-700 lg:text-lg" :class="open ? 'block' : 'hidden'">
-      <a href="https://twitter.com/aurelzefi15" class="block flex items-center hover:text-gray-900">
-        <span>Twitter</span>
+      <a href="https://twitter.com/aurelzefi" class="block flex items-center hover:text-gray-900">
+        <span>test</span>
         <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" class="ml-1">
           <path d="M16.5 13V18.5H6.5V8.5H12" stroke="#4A5568"></path> <path d="M10 15L18.5 6.5" stroke="#4A5568"></path>
           <path d="M14 6.5H18.5V11" stroke="#4A5568"></path>
