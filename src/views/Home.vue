@@ -8,7 +8,7 @@
 
     <p class="mt-6">
       I am not currently available for new work, but feel free to
-      <a href="mailto:aurelzefi1994@gmail.com" class="border-b border-gray-900 pb-px md:pb-1 text-gray-900">contact me</a>
+      <a href="mailto:aurelzefi1994@gmail.com" class="border-b border-gray-900 pb-px md:pb-1 text-gray-900 whitespace-no-wrap">contact me</a>
       for any other inquiries.
     </p>
   </div>
