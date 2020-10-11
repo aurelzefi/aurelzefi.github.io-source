@@ -66,12 +66,12 @@
       </a>
     </div>
 
-    <router-view/>
+    <Nuxt />
 
     <p class="border-gray-400 border-t pt-6 mt-6 sm:mt-8 md:mt-10 mb-10 text-gray-700 text-sm sm:text-base md:text-lg">
       This website was built with
-      <a href="https://tailwindcss.com" class="border-b border-gray-900 pb-px text-gray-900">TailwindCSS</a> and
-      <a href="https://vuejs.org" class="border-b border-gray-900 pb-px text-gray-900">Vue.js</a>.
+      <a href="https://tailwindcss.com/" class="border-b border-gray-900 pb-px text-gray-900">TailwindCSS</a> and
+      <a href="https://nuxtjs.org/" class="border-b border-gray-900 pb-px text-gray-900">Nuxt.js</a>.
     </p>
   </div>
 </template>
@@ -87,7 +87,5 @@ export default {
 </script>
 
 <style>
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 </style>

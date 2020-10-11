@@ -3,8 +3,8 @@
 # abort on errors
 set -e
 
-# build
-npm run build
+# generate
+npm run generate
 
 # navigate into the build output directory
 cd dist
