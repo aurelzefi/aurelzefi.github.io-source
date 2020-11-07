@@ -1,7 +1,7 @@
 <template>
   <div class="text-xl sm:text-2xl md:text-3xl lg:text-4xl md:font-light text-gray-700">
     <p class="mt-10">
-      Hi! I'm Aurel Zefi, a web developer from Tirana, Albania. I work mainly with Laravel, Vue, and I also love
+      Hi! I'm Aurel Zefi, a web developer from Tirana, Albania. I work mainly with Laravel, Vue and
       <a href="https://tailwindcss.com/" class="border-b border-gray-900 pb-px md:pb-1 text-gray-900">TailwindCSS</a>.
     </p>
 
